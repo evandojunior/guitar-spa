@@ -1,0 +1,34 @@
+    {
+        "guitars": [
+            {
+                "id": 1,
+                "model": "Stratocaster",
+                "description": "Fender Telecaster, também conhecida como Tele, é uma típica guitarra elétrica de dois compartimentos, de corpo sólido construída pela Fender. O seu projeto simples, mas eficaz e seu som revolucionário inovou e criou tendências na fabricação de guitarra e na música popular. Inicialmente distribuída como Broadcaster no outono (primavera, no Brasil) de 1949, foi a primeira guitarra de seu tipo a ser produzida em uma escala significativa. Sua produção comercial pode ser traçada já em março de 1950, quando os modelos Squier simples e com dois captadores foram vendidos pela primeira vez",
+                "img": "https://www.vintageandmodernguitars.co.uk/wp-content/uploads/2017/11/sqr.png"
+            },
+            {
+                "id": 2,
+                "model": "Telecaster",
+                "description": "Fender Telecaster, também conhecida como Tele, é uma típica guitarra elétrica de dois compartimentos, de corpo sólido construída pela Fender. O seu projeto simples, mas eficaz e seu som revolucionário inovou e criou tendências na fabricação de guitarra e na música popular. Inicialmente distribuída como Broadcaster no outono (primavera, no Brasil) de 1949, foi a primeira guitarra de seu tipo a ser produzida em uma escala significativa. Sua produção comercial pode ser traçada já em março de 1950, quando os modelos Squier simples e com dois captadores foram vendidos pela primeira vez",
+                "img": "https://www.fmicassets.com/Damroot/ZoomJpg/10002/0110132850_gtr_frt_001_rr.jpg"
+            },
+            {
+                "id": 3,
+                "model": "Les Paul",
+                "description": "Fender Telecaster, também conhecida como Tele, é uma típica guitarra elétrica de dois compartimentos, de corpo sólido construída pela Fender. O seu projeto simples, mas eficaz e seu som revolucionário inovou e criou tendências na fabricação de guitarra e na música popular. Inicialmente distribuída como Broadcaster no outono (primavera, no Brasil) de 1949, foi a primeira guitarra de seu tipo a ser produzida em uma escala significativa. Sua produção comercial pode ser traçada já em março de 1950, quando os modelos Squier simples e com dois captadores foram vendidos pela primeira vez",
+                "img": "http://pluspng.com/img-png/gibson-png-epiphone-les-paul-image-700.png"
+            },
+            {
+                "id": 4,
+                "model": "Les Paul",
+                "description": "Fender Telecaster, também conhecida como Tele, é uma típica guitarra elétrica de dois compartimentos, de corpo sólido construída pela Fender. O seu projeto simples, mas eficaz e seu som revolucionário inovou e criou tendências na fabricação de guitarra e na música popular. Inicialmente distribuída como Broadcaster no outono (primavera, no Brasil) de 1949, foi a primeira guitarra de seu tipo a ser produzida em uma escala significativa. Sua produção comercial pode ser traçada já em março de 1950, quando os modelos Squier simples e com dois captadores foram vendidos pela primeira vez",
+                "img": "http://pluspng.com/img-png/gibson-png-epiphone-les-paul-image-700.png"
+            },
+            {
+                "id": 5,
+                "model": "Flyng V",
+                "description": "Fender Telecaster, também conhecida como Tele, é uma típica guitarra elétrica de dois compartimentos, de corpo sólido construída pela Fender. O seu projeto simples, mas eficaz e seu som revolucionário inovou e criou tendências na fabricação de guitarra e na música popular. Inicialmente distribuída como Broadcaster no outono (primavera, no Brasil) de 1949, foi a primeira guitarra de seu tipo a ser produzida em uma escala significativa. Sua produção comercial pode ser traçada já em março de 1950, quando os modelos Squier simples e com dois captadores foram vendidos pela primeira vez",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Epiphone_flying_v_guitar_svg.svg/1280px-Epiphone_flying_v_guitar_svg.svg.png"
+            }
+        ]
+    }
